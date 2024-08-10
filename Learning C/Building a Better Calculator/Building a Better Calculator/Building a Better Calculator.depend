@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722185405 source:c:\users\verno\onedrive\desktop\giraffe c\building a better calculator\building a better calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

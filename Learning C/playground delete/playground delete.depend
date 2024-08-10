@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1722803277 source:c:\users\verno\onedrive\desktop\giraffe c\playground delete\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

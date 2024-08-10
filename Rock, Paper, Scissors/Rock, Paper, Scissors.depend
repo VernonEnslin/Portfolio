@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722877086 source:c:\users\verno\onedrive\desktop\giraffe c\rock, paper, scissors\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
